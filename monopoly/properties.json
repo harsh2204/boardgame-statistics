@@ -1,0 +1,411 @@
+{
+    "board": {
+        "properties": [
+            {
+                "buyable": false,
+                "type": "ST",
+                "propName": "Start"
+            },
+            {
+                "rent1": 10,
+                "price": 60,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 50,
+                "propName": "Oriental Ave.",
+                "rent4": 160,
+                "rent3": 90,
+                "color": "Color.YELLOW",
+                "rentH": 250,
+                "rent2": 30
+            },
+            {
+                "rent1": 20,
+                "price": 60,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 50,
+                "propName": "Vermont Ave.",
+                "rent4": 320,
+                "rent3": 180,
+                "color": "Color.YELLOW",
+                "rentH": 450,
+                "rent2": 60
+            },
+            {
+                "price": 325,
+                "buyable": true,
+                "type": "STH",
+                "desc2": "rent on all properties",
+                "propName": "Special 1",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll & +25 "
+            },
+            {
+                "rent1": 30,
+                "price": 80,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 50,
+                "propName": "Connecticut Ave.",
+                "rent4": 350,
+                "rent3": 220,
+                "color": "Color.YELLOW",
+                "rentH": 500,
+                "rent2": 90
+            },
+            {
+                "buyable": false,
+                "type": "IT",
+                "propName": "Income Tax",
+                "color": "Color.GRAY"
+            },
+            {
+                "buyable": false,
+                "type": "CH",
+                "propName": "Chance",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 30,
+                "price": 100,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 75,
+                "propName": "St. Charles Place.",
+                "rent4": 400,
+                "rent3": 270,
+                "color": "Color.BLUE",
+                "rentH": 550,
+                "rent2": 90
+            },
+            {
+                "rent1": 40,
+                "price": 120,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 75,
+                "propName": "States Ave.",
+                "rent4": 450,
+                "rent3": 300,
+                "color": "Color.BLUE",
+                "rentH": 600,
+                "rent2": 100
+            },
+            {
+                "buyable": false,
+                "type": "J",
+                "propName": "Jail",
+                "color": "Color.BLACK"
+            },
+            {
+                "rent1": 40,
+                "price": 120,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 75,
+                "propName": "Virginia Ave.",
+                "rent4": 420,
+                "rent3": 260,
+                "color": "Color.BLUE",
+                "rentH": 580,
+                "rent2": 100
+            },
+            {
+                "rent1": 50,
+                "price": 140,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 100,
+                "propName": "St. James Place.",
+                "rent4": 625,
+                "rent3": 450,
+                "color": "Color.PURPLE",
+                "rentH": 700,
+                "rent2": 150
+            },
+            {
+                "price": 375,
+                "buyable": true,
+                "type": "S1230",
+                "desc2": "if Avengers Base is owned",
+                "propName": "Special",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll, 50x roll "
+            },
+            {
+                "rent1": 60,
+                "price": 150,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 100,
+                "propName": "Tennesse Ave.",
+                "rent4": 650,
+                "rent3": 480,
+                "color": "Color.PURPLE",
+                "rentH": 750,
+                "rent2": 170
+            },
+            {
+                "rent1": 80,
+                "price": 180,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 100,
+                "propName": "Pennsylvania Ave.",
+                "rent4": 680,
+                "rent3": 500,
+                "color": "Color.PURPLE",
+                "rentH": 900,
+                "rent2": 180
+            },
+            {
+                "price": 375,
+                "buyable": true,
+                "type": "S1533",
+                "desc2": " if Arkhum Asylum is owned",
+                "propName": "Kentucky Ave.",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll, 50x roll "
+            },
+            {
+                "buyable": false,
+                "type": "CO",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 100,
+                "price": 200,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 150,
+                "propName": "Indiana Ave.",
+                "rent4": 700,
+                "rent3": 520,
+                "color": "Color.GREEN",
+                "rentH": 910,
+                "rent2": 200
+            },
+            {
+                "buyable": false,
+                "type": "FP",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 110,
+                "price": 220,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 150,
+                "propName": "Illinois Ave.",
+                "rent4": 725,
+                "rent3": 540,
+                "color": "Color.GREEN",
+                "rentH": 925,
+                "rent2": 220
+            },
+            {
+                "rent1": 110,
+                "price": 220,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 150,
+                "propName": "Atlantic Ave.",
+                "rent4": 725,
+                "rent3": 540,
+                "color": "Color.GREEN",
+                "rentH": 925,
+                "rent2": 220
+            },
+            {
+                "price": 325,
+                "buyable": true,
+                "type": "SRBC",
+                "propName": "Special",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll & tax rebate"
+            },
+            {
+                "rent1": 125,
+                "price": 250,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 150,
+                "propName": "Ventnor Ave.",
+                "rent4": 750,
+                "rent3": 550,
+                "color": "Color.GREEN",
+                "rentH": 950,
+                "rent2": 250
+            },
+            {
+                "buyable": false,
+                "type": "HT",
+                "propName": "Blank",
+                "color": "Color.WHITE"
+            },
+            {
+                "buyable": false,
+                "type": "CH",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 140,
+                "price": 260,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 200,
+                "propName": "Marvin Gardens",
+                "rent4": 975,
+                "rent3": 750,
+                "color": "Color.RED",
+                "rentH": 1000,
+                "rent2": 300
+            },
+            {
+                "rent1": 150,
+                "price": 290,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 200,
+                "propName": "Pacific Ave.",
+                "rent4": 1000,
+                "rent3": 800,
+                "color": "Color.RED",
+                "rentH": 1100,
+                "rent2": 350
+            },
+            {
+                "buyable": false,
+                "type": "JK",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 150,
+                "price": 290,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 200,
+                "propName": "North Carolina Ave.",
+                "rent4": 1000,
+                "rent3": 800,
+                "color": "Color.RED",
+                "rentH": 1100,
+                "rent2": 350
+            },
+            {
+                "rent1": 170,
+                "price": 325,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 200,
+                "propName": "New York Ave.",
+                "rent4": 1100,
+                "rent3": 850,
+                "color": "Color.RED",
+                "rentH": 1200,
+                "rent2": 400
+            },
+            {
+                "price": 375,
+                "buyable": true,
+                "type": "S1230",
+                "desc2": "roll if S.H.I.E.L.D. Headquarters is owned",
+                "propName": "Special",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll, 50x "
+            },
+            {
+                "buyable": false,
+                "type": "CO",
+                "color": "Color.GRAY"
+            },
+            {
+                "rent1": 175,
+                "price": 375,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 300,
+                "propName": "New York Ave.",
+                "rent4": 1300,
+                "rent3": 1100,
+                "color": "Color.ORANGE",
+                "rentH": 1500,
+                "rent2": 500
+            },
+            {
+                "price": 375,
+                "buyable": true,
+                "type": "S1533",
+                "desc2": " if Watch Tower is owned",
+                "propName": "Special",
+                "color": "Color.WHITE",
+                "desc1": "Rent = 25x roll, 50x roll "
+            },
+            {
+                "rent1": 200,
+                "price": 400,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 300,
+                "propName": "Park Place",
+                "rent4": 1700,
+                "rent3": 1400,
+                "color": "Color.ORANGE",
+                "rentH": 2000,
+                "rent2": 600
+            },
+            {
+                "rent1": 250,
+                "price": 500,
+                "buyable": true,
+                "type": "N",
+                "priceHouse": 300,
+                "propName": "Boardwalk",
+                "rent4": 1850,
+                "rent3": 1500,
+                "color": "Color.ORANGE",
+                "rentH": 2100,
+                "rent2": 750
+            }
+        ],
+        "cards": {
+            "chance": [
+                "Advance to Go (Collect $200) ",
+                "Bank error in your favor \u2013 collect $75 ",
+                "Insurance fees \u2013 Pay $50 ",
+                "Get out of jail free \u2013 this card may be kept until needed, or sold ",
+                "Holiday Fund matures - Receive $100",
+                "It is your birthday Collect $10 from each player ",
+                "Blue Jays opening night \u2013 collect $50 from every player for opening night seats ",
+                "Income Tax refund \u2013 collect $20 ",
+                "Life Insurance Matures \u2013 collect $100 ",
+                "Pay Hospital Room Fees of $100 ",
+                "Pay University Fees of $50 ",
+                "Receive $25 Consultancy Fee ",
+                "You are assessed for street winter damage \u2013 $40 per house, $115 per hotel ",
+                "You have won second prize in a poutine eating contest\u2013 collect $10 ",
+                "You inherit $100",
+                "From sale of stock you get $50 "
+            ],
+            "community": [
+                "Advance to Go (Collect $200)",
+                "Advance to Windsor",
+                "Advance token to CN Tower",
+                "Advance token to CNR",
+                "Advance to St. John's \u2013 if you pass Go, collect $200",
+                "Bank pays you dividend of $50",
+                "Get out of Jail free \u2013 this card may be kept until needed, or traded/sold",
+                "Go back 3 spaces",
+                "Go directly to Jail \u2013 do not pass Go, do not collect $200",
+                "Make shingle repairs on all your property \u2013 for each house pay $25 \u2013 for each hotel $100",
+                "Pay poor tax of $15",
+                "Take a trip to Timmies \u2013 if you pass Go collect $200",
+                "Take a walk on the Niagara Falls \u2013 advance token to Niagara Falls",
+                "You have been elected chairman of the board \u2013 pay each player $50",
+                "You win a curling tournanment \u2013 collect $150",
+                "You have won a hockey game - collect $100"
+            ]
+        }
+    }
+}
